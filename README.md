@@ -21,21 +21,23 @@ Brian Wilson <brian@wildsong.biz>
 
 All the Esri sourced submodules have the name Wildsong/wabde-widget-*
 
-I have not added any third party or Wildsong widgets yet but they will follow
-the same pattern.
+"PublicNotification" is from Esri but not included in WABDE.
 
-There are lists of submodule names in scripts/esri-wabde-list and
-scripts/third-party-list
+There are some third party widgets, including
+* PopupPanel
+* SaveSession
+* Table (which I am writing now and does currently nothing useful yet except test the build process!)
 
-## Other Esri files
+There are lists of some widget names in
+scripts/esri-wabde-list (complete list from version 2.19)
+and scripts/third-party-list (some are already included as submodules, working on the others)
 
-I have not figured out how to get these files into the right place yet, so I stuck them
-in this repo. They belong in this level in clients/stemapp/widgets in WABDE. Putting them
-here means you just do a clone into widgets and everything is good to go.
+## Other Esri files in this repo
 
-In fact I have not figured out what they do yet either. I assume that the WAB uses them
-when building applications over in server/apps to include the widgets?? Whatever. For now
-I just assume they have to be here.
+There were some little files in clients/stemapp/widgets and I have not
+figured out another way to get them into the right place yet, so I
+stuck them in this repo.Putting them here means you just do a clone
+into widgets and everything is good to go; all submodules (widgets) and these files.
 
 They are all covered under Apache 2.0 and copyright ESRI.
 
@@ -45,6 +47,10 @@ package.js
 package.json
 widgets.d.ts
 ```
+
+BTW I have not figured out what they do yet either. I assume that the WABDe uses them
+when building applications over in server/apps to include the widgets?? Whatever. For now
+I just assume they have to be here. Maybe they do nothing at all. ;-)
 
 ## References
 
