@@ -17,6 +17,16 @@ I will be adding more widgets from other sources tomorrow.
 
 Brian Wilson <brian@wildsong.biz>
 
+## Widget sources
+
+All the Esri sourced submodules have the name Wildsong/wabde-widget-*
+
+I have not added any third party or Wildsong widgets yet but they will follow
+the same pattern.
+
+There are lists of submodule names in scripts/esri-wabde-list and
+scripts/third-party-list
+
 ## Other Esri files
 
 I have not figured out how to get these files into the right place yet, so I stuck them
@@ -39,3 +49,4 @@ widgets.d.ts
 ## References
 
 [Esri Developer site](https://developer.esri.com)
+
