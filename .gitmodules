@@ -184,3 +184,15 @@
 [submodule "samplewidgets"]
 	path = samplewidgets
 	url = https://github.com/Wildsong/wabde-widget-samplewidgets
+[submodule "SaveSession"]
+	path = SaveSession
+	url = https://github.com/softwhere/SaveSession-Widget.git
+[submodule "PopupPanel"]
+	path = PopupPanel
+	url = https://github.com/Wildsong/wabde-widget-PopupPanel
+[submodule "PublicNotification"]
+	path = PublicNotification
+	url = https://github.com/Wildsong/wabde-widget-PublicNotification
+[submodule "Table"]
+	path = Table
+	url = https://github.com/brian32768/wab-table-widget.git
