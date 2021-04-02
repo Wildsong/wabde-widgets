@@ -199,3 +199,6 @@
 [submodule "Traverse"]
 	path = Traverse
 	url = https://github.com/Wildsong/wabde-widget-Traverse
+[submodule "About"]
+	path = About
+	url = https://github.com/Wildsong/wabde-widget-About
