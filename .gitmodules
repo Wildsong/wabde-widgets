@@ -196,3 +196,6 @@
 [submodule "Table"]
 	path = Table
 	url = https://github.com/brian32768/wab-table-widget.git
+[submodule "Traverse"]
+	path = Traverse
+	url = https://github.com/Wildsong/wabde-widget-Traverse
