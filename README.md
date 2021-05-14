@@ -27,6 +27,7 @@ There are some third party widgets, including
 * PopupPanel
 * SaveSession
 * Table (which I am writing now and does currently nothing useful yet except test the build process!)
+* Traverse
 
 There are lists of some widget names in
 scripts/esri-wabde-list (complete list from version 2.19)
