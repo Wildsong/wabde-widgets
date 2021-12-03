@@ -1,5 +1,8 @@
 #!/bin/bash
-
+#
+# Looks like I used this script to create a repo for each widget
+# and send it to github.
+#
 # gh docs  https://cli.github.com/
 
 for i in `cat esri-wabde-list`
